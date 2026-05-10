@@ -6,6 +6,10 @@ Made by **[WittyBits Studio](https://wittybits.net)**
 
 ---
 
+**[Live Demo]([LINK_DO_TWOJEGO_DEMO](https://wittybits-studio.github.io/mc-theme/))** 
+
+---
+
 ## Pages
 
 | Page | File |
